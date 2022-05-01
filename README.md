@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Adarsh singh</h1>
+<h1 align="center">Hi 👋, I'm Adarsh singh</h1><img width="3.5%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshsingh55" alt="adarshsingh55" /></a> </p>
