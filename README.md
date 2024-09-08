@@ -1,4 +1,4 @@
-
+<div style="background-image: url('https://raw.githubusercontent.com/adarshsingh55/sidePannel/main/180b20e8e0cdb067fcb5e2b2595cd778.jpg'); background-size: cover; background-position: center; filter: blur(5px); padding: 50px; text-align: center;">
 <h1 align="center" display="flex">Hi 👋, I'm Adarsh singh<img width="10.5%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif"></h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshsingh55&show_icons=true&locale=en" alt="adarshsingh55" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsingh55&" alt="adarshsingh55" /></p>
+</div>
