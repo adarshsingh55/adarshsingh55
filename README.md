@@ -1,6 +1,6 @@
 <div style="background-image: url('https://raw.githubusercontent.com/adarshsingh55/sidePannel/main/180b20e8e0cdb067fcb5e2b2595cd778.jpg'); background-size: cover; background-position: center; filter: blur(5px); padding: 50px; text-align: center;">
 <h1 align="center" display="flex">Hi 👋, I'm Adarsh singh<img width="10.5%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif"></h1>
-
+</div>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshsingh55" alt="adarshsingh55" /></a> </p>
@@ -12,7 +12,7 @@
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **adarshsingh345125@gmail.com**
-</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/adarsh-singh-614318223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/adarsh-singh-614318223" height="30" width="40" /></a>
